@@ -172,8 +172,8 @@ chore: bump dependencies
 | 🧩 [POS Repo](https://github.com/Laxiera-Technologies/LaxieraPOS) | Android POS Repo |
 | 💻 Backend Repo | [github.com/Laxiera-Technologies/server](https://github.com/Laxiera-Technologies/server) |
 | 📊 Dashboard Repo | [github.com/Laxiera-Technologies/dashboard](https://github.com/Laxiera-Technologies/dashboard) |
-| 🧾 Legal Docs | [terms.laxiera.com](https://terms.laxiera.com) |
-| ✉️ Contact | [contact@laxiera.com](mailto:contact@laxiera.com) |
+| 🧾 Legal Docs | [Laxiera Technologies LLC Terms](https://www.laxiera.com/FooterSections/terms) |
+| ✉️ Contact | [contact@laxiera.com](mailto:chaitanya@laxiera.com) |
 
 ---
 
@@ -194,7 +194,7 @@ We’re assembling a world-class engineering team driven by passion and precisio
 - ⚡ Fast execution with lean teams.  
 - 💬 Collaborative and transparent culture.  
 
-Apply or reach out to **[contact@laxiera.com](mailto:contact@laxiera.com)**  
+Apply or reach out to **[contact@laxiera.com](mailto:chaitanya@laxiera.com)**  
 
 ---
 
