@@ -116,7 +116,7 @@ We code with empathy, design with precision, and build with scalability in mind.
 | **Developer Happiness** | Consistent standards, autonomy, and meaningful work. |
 
 ### 💻 Core Stack
-- **Frontend:** React • React Native • Next.js • TypeScript • Tailwind  
+- **Frontend:** React • Kotlin • Next.js • TypeScript • Tailwind  
 - **Backend:** Node.js • Express • Sequelize • PostgreSQL  
 - **Messaging:** Redis • RabbitMQ  
 - **Auth:** Firebase + Admin SDK  
@@ -130,7 +130,7 @@ We code with empathy, design with precision, and build with scalability in mind.
 ### 📦 Primary Repositories
 | Repo | Purpose |
 |------|----------|
-| [`pos`](https://github.com/Laxiera-Technologies/pos) | React Native POS app |
+| [`pos`](https://github.com/Laxiera-Technologies/LaxieraPOS) | Android POS app |
 | [`dashboard`](https://github.com/Laxiera-Technologies/dashboard) | Merchant web dashboard |
 | [`server`](https://github.com/Laxiera-Technologies/server) | Node.js backend & API gateway |
 | [`design-system`](https://github.com/Laxiera-Technologies/design-system) | Shared UI library |
@@ -169,7 +169,7 @@ chore: bump dependencies
 |-----------|-------------|
 | 🌐 [Laxiera.com](https://laxiera.com) | Official Website |
 | 📘 docs.laxiera.com | Developer Documentation *(coming soon)* |
-| 🧩 POS Repo | [github.com/Laxiera-Technologies/LaxieraPOS](https://github.com/Laxiera-Technologies/LaxieraPOS) |
+| 🧩 [POS Repo](https://github.com/Laxiera-Technologies/LaxieraPOS) | Android POS Repo |
 | 💻 Backend Repo | [github.com/Laxiera-Technologies/server](https://github.com/Laxiera-Technologies/server) |
 | 📊 Dashboard Repo | [github.com/Laxiera-Technologies/dashboard](https://github.com/Laxiera-Technologies/dashboard) |
 | 🧾 Legal Docs | [terms.laxiera.com](https://terms.laxiera.com) |
