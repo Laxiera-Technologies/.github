@@ -169,7 +169,7 @@ chore: bump dependencies
 |-----------|-------------|
 | 🌐 [Laxiera.com](https://laxiera.com) | Official Website |
 | 📘 docs.laxiera.com | Developer Documentation *(coming soon)* |
-| 🧩 POS Repo | [github.com/Laxiera-Technologies/pos](https://github.com/Laxiera-Technologies/pos) |
+| 🧩 POS Repo | [github.com/Laxiera-Technologies/LaxieraPOS](https://github.com/Laxiera-Technologies/LaxieraPOS) |
 | 💻 Backend Repo | [github.com/Laxiera-Technologies/server](https://github.com/Laxiera-Technologies/server) |
 | 📊 Dashboard Repo | [github.com/Laxiera-Technologies/dashboard](https://github.com/Laxiera-Technologies/dashboard) |
 | 🧾 Legal Docs | [terms.laxiera.com](https://terms.laxiera.com) |
