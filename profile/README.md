@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="45" width="45" alt="wave"/>
-  Welcome to <span style="color:#D4AF37;">Laxiera Technologies</span>
+  Welcome to <span style="color:#D4AF37;">Laxiera Capital</span>
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## 🏢 Who We Are
 
-**Laxiera Technologies** is a modern fintech company building the operating system for merchants — combining **Point of Sale**, **Payments**, and **Artificial Intelligence** into one unified ecosystem.
+**Laxiera Capital** is a modern fintech company building the operating system for merchants — combining **Point of Sale**, **Payments**, and **Artificial Intelligence** into one unified ecosystem.
 
 Founded in **September 2025** by **Chaitanya Pawar**, Laxiera’s mission is to make every merchant — from a small family café to a global retail chain — operate with **the precision, intelligence, and financial power of an enterprise platform.**
 
@@ -130,11 +130,11 @@ We code with empathy, design with precision, and build with scalability in mind.
 ### 📦 Primary Repositories
 | Repo | Purpose |
 |------|----------|
-| [`pos`](https://github.com/Laxiera-Technologies/LaxieraPOS) | Android POS app |
-| [`dashboard`](https://github.com/Laxiera-Technologies/dashboard) | Merchant web dashboard |
-| [`server`](https://github.com/Laxiera-Technologies/server) | Node.js backend & API gateway |
-| [`design-system`](https://github.com/Laxiera-Technologies/design-system) | Shared UI library |
-| [`helpers`](https://github.com/Laxiera-Technologies/helpers) | Utilities, constants, validators |
+| [`pos`](https://github.com/Laxiera-Capital/LaxieraPOS) | Android POS app |
+| [`dashboard`](https://github.com/Laxiera-Capital/dashboard) | Merchant web dashboard |
+| [`server`](https://github.com/Laxiera-Capital/server) | Node.js backend & API gateway |
+| [`design-system`](https://github.com/Laxiera-Capital/design-system) | Shared UI library |
+| [`helpers`](https://github.com/Laxiera-Capital/helpers) | Utilities, constants, validators |
 
 ---
 
@@ -169,10 +169,10 @@ chore: bump dependencies
 |-----------|-------------|
 | 🌐 [Laxiera.com](https://laxiera.com) | Official Website |
 | 📘 docs.laxiera.com | Developer Documentation *(coming soon)* |
-| 🧩 [POS Repo](https://github.com/Laxiera-Technologies/LaxieraPOS) | Android POS Repo |
-| 💻 Backend Repo | [github.com/Laxiera-Technologies/server](https://github.com/Laxiera-Technologies/server) |
-| 📊 Dashboard Repo | [github.com/Laxiera-Technologies/dashboard](https://github.com/Laxiera-Technologies/dashboard) |
-| 🧾 Legal Docs | [Laxiera Technologies LLC Terms](https://www.laxiera.com/FooterSections/terms) |
+| 🧩 [POS Repo](https://github.com/Laxiera-Capital/LaxieraPOS) | Android POS Repo |
+| 💻 Backend Repo | [github.com/Laxiera-Capital/server](https://github.com/Laxiera-Capital/server) |
+| 📊 Dashboard Repo | [github.com/Laxiera-Capital/dashboard](https://github.com/Laxiera-Capital/dashboard) |
+| 🧾 Legal Docs | [Laxiera Capital LLC Terms](https://www.laxiera.com/FooterSections/terms) |
 | ✉️ Contact | [contact@laxiera.com](mailto:chaitanya@laxiera.com) |
 
 ---
@@ -235,5 +235,5 @@ Before pushing:
 
 <p align="center">
   <i>"Empowering merchants globally — one transaction, one innovation, one partnership at a time."</i><br/>
-  <b>— The Laxiera Technologies Team</b>
+  <b>— The Laxiera Capital Team</b>
 </p>
